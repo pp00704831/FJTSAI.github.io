@@ -23,4 +23,5 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 [2022/11] One paper was accepted by BMVC. <br>
 [2022/10] One paper was accepted by TIP. <br>
 [2022/10] One paper was accepted by ECCV. <br>
+[2022/08] I was honored to receive the [Master Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
 [2021/12] I was honored to receive the [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
