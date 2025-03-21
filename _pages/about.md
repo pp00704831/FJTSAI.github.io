@@ -10,4 +10,16 @@ I am a fourth-year Ph.D. student in the [Department of Electrical Engineering at
 
 My research interests lie in Deep Learning and Computer Vision, particularly in image and video restoration tasks. I have published several papers in top-tier computer vision conferences and journals such as CVPR, ECCV, and TIP.
 
+## Education Experience
+* Ph.D. National Tsing Hua University, Taiwan, Department of Electrical Engineering. 2021-2025.
+* M.S. National Tsing Hua University, Taiwan, Institute of Communications Engineering. 2019-2021.
+* B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 2015-2019.
 
+## News
+[2024/12] One paper was accepted by ACCV. <br>
+[2024/10] One paper was accepted by ECCV. <br>
+[2024/06] One paper was accepted by CVPR. <br>
+[2023/09] <br>
+[2022/11] One paper was accepted by BMVC. <br>
+[2022/10] One paper was accepted by TIP. <br>
+[2022/10] One paper was accepted by ECCV. <br>
