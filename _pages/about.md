@@ -26,4 +26,10 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 [2022/08] I was honored to receive the [Master Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
 [2021/12] I was honored to receive the [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
+## Publications
+[TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
+Hsing-Hua Wang*, Fu-Jen Tsai*, Yen-Yu Lin, and Chia-Wen Lin.  <br>
+*Asian Conference on Computer Vision (ACCV)*, 2024.
+
+
 
