@@ -30,15 +30,15 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 
 ## Publications
 [TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
-Hsing-Hua Wang<sup>*</sup>, Fu-Jen Tsai<sup>*</sup>, Yen-Yu Lin, and Chia-Wen Lin.  <br>
+Hsing-Hua Wang\*, Fu-Jen Tsai\*, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *Asian Conference on Computer Vision (ACCV)*, 2024.
 
 [Domain-adaptive Video Deblurring via Test-time Blurring](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04329.pdf)  <br>
-Jin-Ting He*, Fu-Jen Tsai*, Jia-Hao Wu, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
+Jin-Ting He\*, Fu-Jen Tsai\*, Jia-Hao Wu, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
 *European Conference on Computer Vision (ECCV)*, 2024.
 
 [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_ID-Blau_Image_Deblurring_by_Implicit_Diffusion-based_reBLurring_AUgmentation_CVPR_2024_paper.pdf)  <br>
-Jia-Hao Wu*, Fu-Jen Tsai*, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
+Jia-Hao Wu\*, Fu-Jen Tsai\*, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
 *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
 [Stripformer: Strip Transformer for Fast Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790142.pdf)  <br>
@@ -46,7 +46,7 @@ Fu-Jen Tsai, Yan-Tsung Peng, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *European Conference on Computer Vision (ECCV)*, 2022.
 
 [BANet: A Blur-Aware Attention Network for Dynamic Scene Deblurring](https://ieeexplore.ieee.org/document/9930938/)  <br>
-Fu-Jen Tsai*, Yan-Tsung Peng*, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
+Fu-Jen Tsai\*, Yan-Tsung Peng\*, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *IEEE Transactions on Image Processing (TIP)*, 2022.
 
 [Meta Transferring for Deblurring](https://bmvc2022.mpi-inf.mpg.de/0181.pdf)  <br>
