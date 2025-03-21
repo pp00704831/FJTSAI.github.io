@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Fu-Jen Tsai's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Fu-Jen Tsai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student at NTHU"
+  location         : "Taiwan"
+  employer         : "National Tsing Hua University (NTHU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qwe846132@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
