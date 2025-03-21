@@ -30,7 +30,7 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 
 ## Publications
 [TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
-Hsing-Hua Wang*, Fu-Jen Tsai*, Yen-Yu Lin, and Chia-Wen Lin.  <br>
+Hsing-Hua Wang<sup>*</sup>, Fu-Jen Tsai<sup>*</sup>, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *Asian Conference on Computer Vision (ACCV)*, 2024.
 
 [Domain-adaptive Video Deblurring via Test-time Blurring](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04329.pdf)  <br>
