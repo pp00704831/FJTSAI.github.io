@@ -19,7 +19,7 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 [2024/12] One paper was accepted by ACCV. <br>
 [2024/10] One paper was accepted by ECCV. <br>
 [2024/06] One paper was accepted by CVPR. <br>
-[2023/09] <br>
+[2023/09] Starting internship at National Institute of Informatics (NII), Tokyo, Japan.<br>
 [2022/11] One paper was accepted by BMVC. <br>
 [2022/10] One paper was accepted by TIP. <br>
 [2022/10] One paper was accepted by ECCV. <br>
