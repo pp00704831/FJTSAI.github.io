@@ -41,6 +41,10 @@ Jin-Ting He\*, **Fu-Jen Tsai\***, Jia-Hao Wu, Yan-Tsung Peng, Chung-Chi Tsai, Ch
 Jia-Hao Wu\*, **Fu-Jen Tsai\***, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
 *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
+[Meta Transferring for Deblurring](https://bmvc2022.mpi-inf.mpg.de/0181.pdf)  <br>
+Po-Sheng Liu and **Fu-Jen Tsai** and Yan-Tsung Peng and Chung-Chi Tsai and Chia-Wen Lin and Yen-Yu Lin.  <br>
+*British Machine Vision Conference (BMVC)*, 2022.
+
 [Stripformer: Strip Transformer for Fast Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790142.pdf)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *European Conference on Computer Vision (ECCV)*, 2022.
@@ -49,9 +53,7 @@ Jia-Hao Wu\*, **Fu-Jen Tsai\***, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, a
 **Fu-Jen Tsai\***, Yan-Tsung Peng\*, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *IEEE Transactions on Image Processing (TIP)*, 2022.
 
-[Meta Transferring for Deblurring](https://bmvc2022.mpi-inf.mpg.de/0181.pdf)  <br>
-Po-Sheng Liu and **Fu-Jen Tsai** and Yan-Tsung Peng and Chung-Chi Tsai and Chia-Wen Lin and Yen-Yu Lin.  <br>
-*British Machine Vision Conference (BMVC)*, 2022.
+
 
 
 
