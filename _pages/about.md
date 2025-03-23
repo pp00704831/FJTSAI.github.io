@@ -17,6 +17,7 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 
 ## News
 [2024/12] One paper was accepted by ACCV. <br>
+[2024/12] I am a Ph.D. candidate at NTHU. <br>
 [2024/10] One paper was accepted by ECCV. <br>
 [2024/06] One paper was accepted by CVPR. <br>
 [2023/09] Starting internship at National Institute of Informatics (NII), Tokyo, Japan.<br>
