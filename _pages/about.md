@@ -52,7 +52,7 @@ Po-Sheng Liu and **Fu-Jen Tsai** and Yan-Tsung Peng and Chung-Chi Tsai and Chia-
 [Stripformer: Strip Transformer for Fast Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790142.pdf)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *European Conference on Computer Vision (ECCV)*, 2022.
-[Code]([https://github.com/po-sheng/Meta_Transferring_for_Deblurring](https://github.com/pp00704831/Stripformer-ECCV-2022-))
+[Code](https://github.com/pp00704831/Stripformer-ECCV-2022-)
 
 [BANet: A Blur-Aware Attention Network for Dynamic Scene Deblurring](https://ieeexplore.ieee.org/document/9930938/)  <br>
 **Fu-Jen Tsai\***, Yan-Tsung Peng\*, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
