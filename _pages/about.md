@@ -46,7 +46,7 @@ Jia-Hao Wu\*, **Fu-Jen Tsai\***, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, a
 [Code](https://github.com/plusgood-steven/ID-Blau)
 
 [Meta Transferring for Deblurring](https://bmvc2022.mpi-inf.mpg.de/0181.pdf)  <br>
-Po-Sheng Liu and **Fu-Jen Tsai** and Yan-Tsung Peng and Chung-Chi Tsai and Chia-Wen Lin and Yen-Yu Lin.  <br>
+Po-Sheng Liu, **Fu-Jen Tsai**, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and Yen-Yu Lin.  <br>
 *British Machine Vision Conference (BMVC)*, 2022.
 [Code](https://github.com/po-sheng/Meta_Transferring_for_Deblurring)
 
