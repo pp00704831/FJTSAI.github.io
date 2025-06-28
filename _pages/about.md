@@ -62,7 +62,7 @@ Po-Sheng Liu, **Fu-Jen Tsai**, Yan-Tsung Peng, Chung-Chi Tsai, Chia-Wen Lin, and
 [Code](https://github.com/pp00704831/Stripformer-ECCV-2022-)
 
 [BANet: A Blur-Aware Attention Network for Dynamic Scene Deblurring](https://ieeexplore.ieee.org/document/9930938/)  <br>
-**Fu-Jen Tsai\***, Yan-Tsung Peng\*, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
+**Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, Chung-Chi Tsai, and Chia-Wen Lin.  <br>
 *IEEE Transactions on Image Processing (TIP)*, 2022.
 [Code](https://github.com/pp00704831/BANet-TIP-2022)
 
