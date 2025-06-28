@@ -34,8 +34,22 @@ I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
 
 ## Publications (\* denotes equal contribution)
 
-
-<img src="/images/500x300.png" style="float: left; width: 150px; margin-right: 15px; border-radius: 8px;">
+<div class="media_25">
+  <div class="media-body">
+    <div class='photo' style="float: left;width: 27%; height: 100%;">
+      <img src="../images/500x300.png" alt="" style="width:260px;height:120px;"/>
+    </div>
+      <div style="float: left;width: 73%;">
+      <strong>EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera</strong> <br />
+      Bohan Yu, <strong><u>Jin Han</u></strong>, Boxin Shi, and Imari Sato<br />
+      <i>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</i><br />
+      <a href=>[pdf]</a>
+      <a href=>[code]</a>
+    </div>
+  </div>
+</div>
+    
+<img src="../images/500x300.png" style="float: left; width: 150px; margin-right: 15px; border-radius: 8px;">
 <div style="overflow: hidden;">
   <strong>PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing</strong><br>
   <strong>Fu-Jen Tsai</strong>, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin<br>
