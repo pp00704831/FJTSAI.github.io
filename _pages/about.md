@@ -35,7 +35,7 @@ I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
 ## Publications (\* denotes equal contribution)
 
 
-<img src="/images/PHATNet.png" style="float: left; width: 150px; margin-right: 15px; border-radius: 8px;">
+<img src="PHATNet.png" style="float: left; width: 150px; margin-right: 15px; border-radius: 8px;">
 <div style="overflow: hidden;">
   <strong>PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing</strong><br>
   <strong>Fu-Jen Tsai</strong>, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin<br>
