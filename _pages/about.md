@@ -16,6 +16,7 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
+[2025/06] One paper was accepted by ICCV. <br>
 [2024/12] One paper was accepted by ACCV. <br>
 [2024/12] I am a Ph.D. candidate at NTHU. <br>
 [2024/10] One paper was accepted by ECCV. <br>
@@ -30,6 +31,11 @@ My research interests lie in Deep Learning and Computer Vision, particularly in 
 [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
 ## Publications (\* denotes equal contribution)
+[PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
+**Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
+*International Conference on Computer Vision (ICCV)*, 2025.
+[Code]()
+
 [TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
 Hsing-Hua Wang\*, **Fu-Jen Tsai\***, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *Asian Conference on Computer Vision (ACCV)*, 2024.
