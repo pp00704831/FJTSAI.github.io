@@ -38,7 +38,15 @@ I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
 *International Conference on Computer Vision (ICCV)*, 2025.
 [Code]()
 
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <img src="../images/500x300.png" alt="PHATNet" style="width: 150px; margin-right: 15px; border-radius: 8px;">
+  <div>
+    <strong>PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing</strong><br>
+    <strong>Fu-Jen Tsai</strong>, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin<br>
+    <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+    <a href="paper_link">[Paper]</a> | <a href="code_link">[Code]</a>
+  </div>
+</div>
 
 [TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
 Hsing-Hua Wang\*, **Fu-Jen Tsai\***, Yen-Yu Lin, and Chia-Wen Lin.  <br>
