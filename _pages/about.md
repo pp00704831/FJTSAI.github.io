@@ -35,7 +35,7 @@ I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
 ## Publications (\* denotes equal contribution)
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+<div class="paper-entry">
   <img src="/assets/PHATNet.png" alt="PHATNet" style="width: 150px; margin-right: 15px; border-radius: 8px;">
   <div>
     <strong>PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing</strong><br>
