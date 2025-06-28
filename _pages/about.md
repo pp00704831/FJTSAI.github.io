@@ -10,21 +10,23 @@ I am a fourth-year Ph.D. student in the [Department of Electrical Engineering at
 
 My research interests lie in Deep Learning and Computer Vision, particularly in image and video restoration tasks. I have published several papers in top-tier computer vision conferences and journals such as CVPR, ECCV, and TIP.
 
+I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
+
 ## Education Experience
 * [2021-2025] Ph.D. National Tsing Hua University, Taiwan, Department of Electrical Engineering. 
 * [2019-2021] M.S. National Tsing Hua University, Taiwan, Institute of Communications Engineering. 
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
-[2025/06] One paper was accepted by ICCV. <br>
-[2024/12] One paper was accepted by ACCV. <br>
+[2025/06] One paper was accepted by ICCV 2025. <br>
+[2024/12] One paper was accepted by ACCV 2024. <br>
 [2024/12] I am a Ph.D. candidate at NTHU. <br>
-[2024/10] One paper was accepted by ECCV. <br>
-[2024/06] One paper was accepted by CVPR. <br>
+[2024/10] One paper was accepted by ECCV 2024. <br>
+[2024/06] One paper was accepted by CVPR 2024. <br>
 [2023/09] Starting internship at National Institute of Informatics (NII), Tokyo, Japan.<br>
-[2022/11] One paper was accepted by BMVC. <br>
-[2022/10] One paper was accepted by TIP. <br>
-[2022/10] One paper was accepted by ECCV. <br>
+[2022/11] One paper was accepted by BMVC 2022. <br>
+[2022/10] One paper was accepted by TIP 2022. <br>
+[2022/10] One paper was accepted by ECCV 2022. <br>
 [2022/08] I was honored to receive: <br>
 [Master Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
 [2021/12] I was honored to receive: <br>
