@@ -10,8 +10,6 @@ I am a fourth-year Ph.D. student in the [Department of Electrical Engineering at
 
 My research interests lie in Deep Learning and Computer Vision, particularly in image and video restoration tasks. I have published several papers in top-tier computer vision conferences and journals such as CVPR, ECCV, and TIP.
 
-I will be joining MediaTek as a Senior AI Research Engineer in September 2025.
-
 ## Education Experience
 * [2021-2025] Ph.D. National Tsing Hua University, Taiwan, Department of Electrical Engineering. 
 * [2019-2021] M.S. National Tsing Hua University, Taiwan, Institute of Communications Engineering. 
