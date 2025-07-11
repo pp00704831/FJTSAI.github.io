@@ -18,6 +18,7 @@ Email: qwe846132@gmail.com
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
+[2025/07] I have successfully defended my Ph.D. dissertation.
 [2025/06] One paper was accepted by ICCV 2025. <br>
 [2024/12] One paper was accepted by ACCV 2024. <br>
 [2024/12] I am a Ph.D. candidate at NTHU. <br>
