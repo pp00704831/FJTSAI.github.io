@@ -35,6 +35,8 @@ Email: qwe846132@gmail.com
 
 ## Publications (\* denotes equal contribution)
 
+<img src="../images/PHATNet.PNG" alt="" style="width:260px;height:110px;"/>
+
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *International Conference on Computer Vision (ICCV)*, 2025.
