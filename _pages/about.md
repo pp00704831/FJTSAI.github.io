@@ -34,7 +34,8 @@ Email: qwe846132@gmail.com
 [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
 ## Publications (\* denotes equal contribution)
-<img src="https://github.com/pp00704831/FJTSAI.github.io/tree/master/images/PHATNet.PNG" alt="" style="width:260px;height:110px;"/>
+
+<img src='/images/500x300.png'>
 
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
