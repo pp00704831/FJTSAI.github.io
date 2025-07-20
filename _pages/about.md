@@ -35,7 +35,10 @@ Email: qwe846132@gmail.com
 
 ## Publications (\* denotes equal contribution)
 
-<img src='500x300.png'>
+<span style="display:inline-flex; align-items:center;">
+  <b>PHATNet</b>
+  <img src="../images/PHATNet.PNG" alt="PHATNet" style="width:120px; height:auto; margin-left:10px;"/>
+</span>
 
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
