@@ -37,7 +37,7 @@ Email: qwe846132@gmail.com
 
 <span style="display:inline-flex; align-items:center;">
   <b>PHATNet</b>
-  <img src="../images/PHATNet.PNG" alt="PHATNet" style="width:120px; height:auto; margin-left:10px;"/>
+  <img src="PHATNet.png" alt="PHATNet" style="width:120px; height:auto; margin-left:10px;"/>
 </span>
 
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
