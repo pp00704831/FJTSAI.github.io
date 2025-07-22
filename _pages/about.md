@@ -35,10 +35,10 @@ Email: qwe846132@gmail.com
 
 ## Publications (\* denotes equal contribution)
 
-[PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing]()  <br>
+[PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/abs/2507.14826)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *International Conference on Computer Vision (ICCV)*, 2025.
-[Code]()
+[Code](https://github.com/pp00704831/PHATNet)
 
 [TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_TANet_Triplet_Attention_Network_for_All-In-One_Adverse_Weather_Image_Restoration_ACCV_2024_paper.pdf)  <br>
 Hsing-Hua Wang\*, **Fu-Jen Tsai\***, Yen-Yu Lin, and Chia-Wen Lin.  <br>
