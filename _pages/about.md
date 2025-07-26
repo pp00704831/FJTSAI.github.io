@@ -18,6 +18,7 @@ Email: qwe846132@gmail.com
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
+[2025/07] One paper was accepted by BMVC 2025. <br>
 [2025/07] I have successfully defended my Ph.D. dissertation. <br>
 [2025/06] One paper was accepted by ICCV 2025. <br>
 [2024/12] One paper was accepted by ACCV 2024. <br>
@@ -34,6 +35,11 @@ Email: qwe846132@gmail.com
 [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
 ## Publications (\* denotes equal contribution)
+
+[WTNet: A Weather Transfer Network for Domain-Adaptive All-In-One Adverse Weather Image Restoration]()  <br>
+Si-Yu Huang\*, **Fu-Jen Tsai\***, Chia-Wen Lin, and Yen-Yu Lin. <br>
+*British Machine Vision Conference (BMVC)*, 2025.
+[Code]()
 
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/abs/2507.14826)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
