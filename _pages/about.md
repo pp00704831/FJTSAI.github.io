@@ -19,6 +19,7 @@ Email: qwe846132@gmail.com
 
 ## News
 [2025/09] I will join MediaTek as a Senior AI Research Engineer.. <br>
+[2025/08] I was honored to receive: [Ph.D. Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
 [2025/07] One paper was accepted by BMVC 2025. <br>
 [2025/07] I recived my Ph.D. degree. <br>
 [2025/06] One paper was accepted by ICCV 2025. <br>
@@ -30,10 +31,8 @@ Email: qwe846132@gmail.com
 [2022/11] One paper was accepted by BMVC 2022. <br>
 [2022/10] One paper was accepted by TIP 2022. <br>
 [2022/10] One paper was accepted by ECCV 2022. <br>
-[2022/08] I was honored to receive: <br>
-[Master Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
-[2021/12] I was honored to receive: <br>
-[Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
+[2022/08] I was honored to receive: [Master Thesis Merit Award, Chinese Image Processing and Pattern Recognition Society](https://140.125.183.142/paperaword/). <br>
+[2021/12] I was honored to receive: [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
 ## Publications (\* denotes equal contribution)
 
