@@ -18,7 +18,7 @@ Email: qwe846132@gmail.com
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
-[2025/09] I will join MediaTek as a Senior AI Research Engineer.. <br>
+[2025/09] I joined MediaTek as a Senior AI Research Engineer.. <br>
 [2025/08] I was honored to receive: [Best Ph.D. Thesis Award, Chinese Image Processing and Pattern Recognition Society](https://ippr.org.tw/wp-content/uploads/2025/08/%E7%AC%AC18%E5%B1%86%E5%8D%9A%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E7%8D%8E%E7%8D%B2%E7%8D%8E%E5%90%8D%E5%96%AE.pdf). <br>
 [2025/07] One paper was accepted by BMVC 2025. <br>
 [2025/07] I recived my Ph.D. degree. <br>
