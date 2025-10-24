@@ -18,6 +18,8 @@ Email: qwe846132@gmail.com
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
+[2025/10] One paper was accepted by J-STSP 2025. <br>
+[2025/10] One paper was accepted by NeurIPS 2025. <br>
 [2025/09] I joined MediaTek as a Senior AI Research Engineer.. <br>
 [2025/08] I was honored to receive: [Best Ph.D. Thesis Award, Chinese Image Processing and Pattern Recognition Society](https://ippr.org.tw/wp-content/uploads/2025/08/%E7%AC%AC18%E5%B1%86%E5%8D%9A%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E7%8D%8E%E7%8D%B2%E7%8D%8E%E5%90%8D%E5%96%AE.pdf). <br>
 [2025/07] One paper was accepted by BMVC 2025. <br>
@@ -35,6 +37,16 @@ Email: qwe846132@gmail.com
 [2021/12] I was honored to receive: [Technology Excellence Award, Foxconn Education Foundation](https://www.foxconnfoundation.org/plan/technology_award). 
 
 ## Publications (\* denotes equal contribution)
+
+[Rehazing for Dehazing: A Physics-guided Parametric Augmentation Net]()  <br>
+Chih-Ling Chang, **Fu-Jen Tsai**, Ziling Huang, Lin Gu, and Chia-Wen Lin. <br>
+*IEEE Journal of Selected Topics in Signal Processing (J-STSP)*, 2025.
+[Code]()
+
+[BlurDM: A Blur Diffusion Model for Image Deblurring]()  <br>
+Jin-Ting He, **Fu-Jen Tsai**, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, and Yen-Yu Lin. <br>
+*Neural Information Processing Systems (NeurIPS)*, 2025.
+[Code]()
 
 [WTNet: A Weather Transfer Network for Domain-Adaptive All-In-One Adverse Weather Image Restoration]()  <br>
 Si-Yu Huang\*, **Fu-Jen Tsai\***, Chia-Wen Lin, and Yen-Yu Lin. <br>
