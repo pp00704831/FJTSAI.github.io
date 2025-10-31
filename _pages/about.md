@@ -53,7 +53,7 @@ Si-Yu Huang\*, **Fu-Jen Tsai\***, Chia-Wen Lin, and Yen-Yu Lin. <br>
 *British Machine Vision Conference (BMVC)*, 2025.
 [Code]()
 
-[PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/abs/2507.14826)  <br>
+[PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://openaccess.thecvf.com/content/ICCV2025/papers/Tsai_PHATNet_A_Physics-guided_Haze_Transfer_Network_for_Domain-adaptive_Real-world_Image_ICCV_2025_paper.pdf)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
 *International Conference on Computer Vision (ICCV)*, 2025.
 [Code](https://github.com/pp00704831/PHATNet)
