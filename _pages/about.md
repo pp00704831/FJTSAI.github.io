@@ -38,12 +38,12 @@ Email: qwe846132@gmail.com
 
 ## Publications (\* denotes equal contribution)
 
-[Rehazing for Dehazing: A Physics-guided Parametric Augmentation Net]()  <br>
+[Rehazing for Dehazing: A Physics-guided Parametric Augmentation Net](https://ieeexplore.ieee.org/document/11218773)  <br>
 Chih-Ling Chang, **Fu-Jen Tsai**, Ziling Huang, Lin Gu, and Chia-Wen Lin. <br>
 *IEEE Journal of Selected Topics in Signal Processing (J-STSP)*, 2025.
 [Code]()
 
-[BlurDM: A Blur Diffusion Model for Image Deblurring]()  <br>
+[BlurDM: A Blur Diffusion Model for Image Deblurring](https://openreview.net/pdf/43334bd1504a0ef217685c7721b0886fe81311d9.pdf)  <br>
 Jin-Ting He, **Fu-Jen Tsai**, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, and Yen-Yu Lin. <br>
 *Neural Information Processing Systems (NeurIPS)*, 2025.
 [Code]()
