@@ -38,6 +38,16 @@ Email: qwe846132@gmail.com
 
 ## Publications (\* denotes equal contribution)
 
+[CDTNet: Compositional Degradation Transfer Network for Test-Time All-in-One De-weathering Adaptation]()  <br>
+Kuan-Hung Lin, **Fu-Jen Tsai**, Jin-Ting He, and Yen-Yu Lin. <br>
+*Winter Conference on Applications of Computer Vision (WACV)*, 2027.
+[Code]()
+
+[HNDiff: Haze-Noise Diffusion for Image Dehazing](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2363.pdf)  <br>
+Jin-Ting He, **Fu-Jen Tsai**, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, and Yen-Yu Lin. <br>
+*European Conference on Computer Vision (ECCV)*, 2026.
+[Code](https://github.com/Jin-Ting-He/HNDiff)
+
 [Rehazing for Dehazing: A Physics-guided Parametric Augmentation Net](https://ieeexplore.ieee.org/document/11218773)  <br>
 Chih-Ling Chang, **Fu-Jen Tsai**, Ziling Huang, Lin Gu, and Chia-Wen Lin. <br>
 *IEEE Journal of Selected Topics in Signal Processing (J-STSP)*, 2025.
@@ -46,12 +56,12 @@ Chih-Ling Chang, **Fu-Jen Tsai**, Ziling Huang, Lin Gu, and Chia-Wen Lin. <br>
 [BlurDM: A Blur Diffusion Model for Image Deblurring](https://openreview.net/pdf/43334bd1504a0ef217685c7721b0886fe81311d9.pdf)  <br>
 Jin-Ting He, **Fu-Jen Tsai**, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, and Yen-Yu Lin. <br>
 *Neural Information Processing Systems (NeurIPS)*, 2025.
-[Code]()
+[Code](https://github.com/Jin-Ting-He/BlurDM)
 
 [WTNet: A Weather Transfer Network for Domain-Adaptive All-In-One Adverse Weather Image Restoration]()  <br>
 Si-Yu Huang\*, **Fu-Jen Tsai\***, Chia-Wen Lin, and Yen-Yu Lin. <br>
 *British Machine Vision Conference (BMVC)*, 2025.
-[Code]()
+[Code](https://github.com/stellaahuang/WTNet)
 
 [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://openaccess.thecvf.com/content/ICCV2025/papers/Tsai_PHATNet_A_Physics-guided_Haze_Transfer_Network_for_Domain-adaptive_Real-world_Image_ICCV_2025_paper.pdf)  <br>
 **Fu-Jen Tsai**, Yan-Tsung Peng, Yen-Yu Lin, and Chia-Wen Lin.  <br>
