@@ -18,6 +18,8 @@ Email: qwe846132@gmail.com
 * [2015-2019] B.S. National Taiwan Ocean University, Taiwan, Department of Electrical Engineering. 
 
 ## News
+[2026/10] One paper was accepted by WACV 2027. <br>
+[2026/10] One paper was accepted by ECCV 2026. <br>
 [2025/10] One paper was accepted by J-STSP 2025. <br>
 [2025/10] One paper was accepted by NeurIPS 2025. <br>
 [2025/09] I joined MediaTek as a Senior AI Research Engineer.. <br>
